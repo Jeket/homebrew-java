@@ -1,6 +1,16 @@
 # Homebrew-java
 Java formulae for Homebrew
 
+[![Java Image][JavaImage]][JavaWebsite]
+
+### Version:
+[jdk8u211](https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html)
+
+## Install ##
+
+* `brew tap Jeket/homebrew-java`
+* `brew install jdk8u211`
+
 
 ### License:
 See [ORACLE LICENSE]
