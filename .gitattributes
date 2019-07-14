@@ -1,0 +1,5 @@
+* text=auto
+*.tar.gz filter=lfs diff=lfs merge=lfs binary
+*.dmg filter=lfs diff=lfs merge=lfs binary
+*.png binary
+*.jpg binary
