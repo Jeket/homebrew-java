@@ -1,7 +1,7 @@
 class Java8 < Formula
   version "1.8.0,211"
   #sha256 '3bc75d5991206e9aebbc969cdd7dfa17615573f97b1435c72b92c78be388960b'
-  url "https://github.com/jeket/autopkgr/releases/download/jdk-8u#{version.split(',')[1]}-macosx-x64.dmg", :shallow => false
+  url "https://github.com/jeket/autopkgr/releases/download/jdk-8u211-macosx-x64.dmg", :shallow => false
   head "https://jeket.github.io/homebrew-java", :branch => 'master'
   name "jdk-8u211"
   desc "Oracle Java SE Development Kit 8u211 macosx-x64"
